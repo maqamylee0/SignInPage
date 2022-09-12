@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignInPage</string>
+    <string name="tech4dev_wtm">Tech4Dev WTM</string>
+    <string name="submit">SUBMIT</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="forgot_password">Forgot Password</string>
+</resources>
